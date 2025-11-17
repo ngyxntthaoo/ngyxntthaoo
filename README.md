@@ -2,7 +2,7 @@
 # Hi, I'm Thao! 👋
 
 ##  👩🏻‍💻 About Me
-My major is mainly focuses on Software Testing and Business Analyst.
+My major is mainly focuses on Software Testing (Manual & Automation)
 
 
 
